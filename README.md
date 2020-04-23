@@ -4,3 +4,5 @@
 ## Directions
 1. `npm install`
 2. `npm start`
+
+![screenshot of demo](screenshot.png)
